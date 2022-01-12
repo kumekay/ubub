@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,3 +132,6 @@ dmypy.json
 
 # IDE configuration
 .vscode/
+
+# Pipenv virtual environment
+Pipfile*
